@@ -1,1 +1,1 @@
-﻿MsgBox DataTable("Param1", dtGlobalSheet)
+﻿MsgBox DataTable("DemoParam", dtGlobalSheet)
