@@ -18,7 +18,7 @@ Window("Calculator").WinButton("Button_6").Click @@ hightlight id_;_852434_;_scr
 Window("Calculator").WinButton("Button_2").Click @@ hightlight id_;_1049876_;_script infofile_;_ZIP::ssf2.xml_;_
 Window("Calculator").WinButton("Button_3").Click @@ hightlight id_;_2032862_;_script infofile_;_ZIP::ssf3.xml_;_
 Window("Calculator").WinButton("Button_4").Click @@ hightlight id_;_1180116_;_script infofile_;_ZIP::ssf4.xml_;_
-Window("Calculator").WinButton("Button_5").Click @@ hightlight id_;_2228914_;_script infofile_;_ZIP::ssf5.xml_;_
+Window("Calculator").WinButton("ineif").Click @@ hightlight id_;_2228914_;_script infofile_;_ZIP::ssf5.xml_;_
 Window("Calculator").WinButton("Button_3").Click @@ hightlight id_;_2032862_;_script infofile_;_ZIP::ssf6.xml_;_
 Window("Calculator").WinButton("Button_6").Click @@ hightlight id_;_852434_;_script infofile_;_ZIP::ssf7.xml_;_
 Window("Calculator").WinButton("Button_4").Click @@ hightlight id_;_1180116_;_script infofile_;_ZIP::ssf8.xml_;_
